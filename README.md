@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I like podcasting, biophysics, and sailing
 - 💬 Ask me about Apolipoprotein E (ApoE) and its role in Alzheimer's disease or discrete molecular dynamics
 
-**I spent a lot of time imaging how to build RNA**
+**I spent a lot of time imaging how to build RNA** ⤵️
 ![RNA Fragment Assembly Demo!](https://github.com/benfeard/benfeard/blob/main/rna_fragment_assembly.gif "RNA Fragment Assembly Demo")
 
 **A drawing of my favorite protein, ApoE, by my friend Dr. Marino Convertino** ⤵️
