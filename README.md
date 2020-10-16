@@ -8,7 +8,3 @@
 
 **I spent a lot of time imaging how to build RNA** ⤵️<br>
 ![RNA Fragment Assembly Demo!](https://github.com/benfeard/benfeard/blob/main/rna_fragment_assembly.gif "RNA Fragment Assembly Demo")
-
-**A drawing of my favorite protein, ApoE, by my friend Dr. Marino Convertino** ⤵️<br>
-Check out my publications to learn more about it<br>
-![ApoE Drawing by Dr. Marino Convertino!](https://github.com/benfeard/benfeard/blob/main/apoe_drawing_color.png "ApoE4 Drawing")
